@@ -1,2 +1,2 @@
-COURSERA: Functional Programming Principles in Scala by École Polytechnique Fédérale de Lausanne
-Link: https://www.coursera.org/learn/scala-functional-programming
+COURSERA 5 COURSE SPECIALIZATION - Functional Programming in Scala
+https://www.coursera.org/specializations/scala
