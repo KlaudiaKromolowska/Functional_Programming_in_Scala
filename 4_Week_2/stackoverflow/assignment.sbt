@@ -1,6 +1,6 @@
 // Student tasks (i.e. submit, packageSubmission)
 enablePlugins(StudentTasks)
-
+enablePlugins(CourseraStudent)
 assignmentVersion.withRank(KeyRanks.Invisible) := "2e93aff3"
 datasetUrl := "https://moocs.scala-lang.org/~dockermoocs/bigdata/stackoverflow-grading.csv"
 
